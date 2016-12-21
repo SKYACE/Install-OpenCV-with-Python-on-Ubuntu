@@ -1,2 +1,2 @@
 # Install-OpenCV-with-Python-on-Ubuntu
-Install OpenCV with Python on Ubuntu and encountered problems
+How to install OpenCV with Python on Ubuntu and how to solve problems that may be encountered
