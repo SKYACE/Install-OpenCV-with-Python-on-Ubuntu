@@ -5,9 +5,9 @@ sudo apt-get update
 sudo apt-get upgrade
 
 #download and install driver
-sudo add-apt-repository ppa:mamarley/nvidia
-sudo apt-get update
-sudo apt-get install nvidia-346
+sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo apt update
+sudo apt install nvidia-367
 
 #list all graphic cards
 sudo lshw -C display
