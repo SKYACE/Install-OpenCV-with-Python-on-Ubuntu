@@ -46,7 +46,7 @@ sudo ln -s /usr/bin/g++-4.9 /usr/bin/g++
 #check the current version
 g++ --version
 
-#to revert it back, just you the same commands
+#to revert it back, just use the same commands
 sudo rm /usr/bin/cpp /usr/bin/gcc /usr/bin/g++
 sudo ln -s /usr/bin/cpp-6.0 /usr/bin/cpp
 sudo ln -s /usr/bin/gcc-6.0 /usr/bin/gcc
