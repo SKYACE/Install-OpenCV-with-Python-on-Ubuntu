@@ -48,9 +48,9 @@ g++ --version
 
 #to revert it back, just use the same commands
 sudo rm /usr/bin/cpp /usr/bin/gcc /usr/bin/g++
-sudo ln -s /usr/bin/cpp-6.0 /usr/bin/cpp
-sudo ln -s /usr/bin/gcc-6.0 /usr/bin/gcc
-sudo ln -s /usr/bin/g++-6.0 /usr/bin/g++
+sudo ln -s /usr/bin/cpp-5 /usr/bin/cpp
+sudo ln -s /usr/bin/gcc-5 /usr/bin/gcc
+sudo ln -s /usr/bin/g++-5 /usr/bin/g++
 
 
 
